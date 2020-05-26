@@ -1,0 +1,26 @@
+{
+  "name": "wxcloud_orm",
+  "version": "1.0.0",
+  "description": "A Wechat miniprogram cloud development ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jie/wxcloud_orm.git"
+  },
+  "keywords": [
+    "wechat",
+    "orm"
+  ],
+  "author": "ZhouYang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jie/wxcloud_orm/issues"
+  },
+  "homepage": "https://github.com/jie/wxcloud_orm#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
